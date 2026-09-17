@@ -1,0 +1,6 @@
+{
+  "name": "SmartCurtain — Автоматические шторы и жалюзи под ключ",
+  "description": "Сервис по установке автоматических штор и жалюзи под ключ с онлайн-калькулятором стоимости и записью на бесплатный замер (на казахском и русском языках).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
